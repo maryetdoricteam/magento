@@ -1,0 +1,27 @@
+mary_et_doric	M&Dwebsite1
+Please keep this information for your records:
+
+Magento Admin Info:
+
+Username:
+mary_et_doric
+Email:
+ngouffodoric@yahoo.fr
+Password:
+******
+Your Store Address:
+http://localhost/maryshop/
+Magento Admin Address:
+http://localhost/maryshop/admin/
+Be sure to bookmark your unique URL and record it offline.
+Encryption Key:
+ce02160501927885d2b34b7372abeb9e
+Database Info:
+
+Database Name:
+mdshop
+Username:
+root
+Password:
+******
+For security, remove write permissions from these directories: 'C:/xampp7/htdocs/maryshop/app/etc'
